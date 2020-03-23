@@ -1,7 +1,5 @@
-<!DOCTYPE html>
 <html>
 <head>
-	<title>first task</title>
 </head>
 <body>
 
